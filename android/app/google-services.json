@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686190759768",
+    "project_id": "valporoom",
+    "storage_bucket": "valporoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686190759768:android:2a46b6e1d2d4237f7f5f2d",
+        "android_client_info": {
+          "package_name": "com.example.valporoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686190759768-5dvf9ttun5cqpel4f7qvg6j5oor97cga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-zRMXlngA33JwGAGVO01CStlUp4I6ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686190759768-5dvf9ttun5cqpel4f7qvg6j5oor97cga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
