@@ -1,16 +1,11 @@
 # valporoom
 
-A new Flutter project.
+ValpoRoom es una aplicacion Movil Destinada a los estudiantes Pucv con el objetivo de encontrar viviendas temporales o permanentes, y destinada a los arrendatarios que buscan
 
-## Getting Started
+1.0 Mockup Realizado en Figma y añadido en imagenes dentro del Proyecto
 
-This project is a starting point for a Flutter application.
+1.1 Mockup Realizado en App Inventor con el objetivo de generar una aplicacion funcional codificada en bloques
 
-A few resources to get you started if this is your first Flutter project:
+1.2 Primeros pasos de aplicacion realizada en flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.3 Primera funcionalidad Flutter
